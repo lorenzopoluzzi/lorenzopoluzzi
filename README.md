@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lorenzopoluzzi
 - 👀 I’m interested in Cybersecurity and Software Development
-- 🌱 I’m currently learning studying in a professional Master's programme 1st level "Cybersecurity: from design to operations" at the University of Bologna
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/lorenzo-poluzzi-b00907146/)
